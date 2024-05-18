@@ -1,5 +1,5 @@
 body {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Courier New', Helvetica, sans-serif, sans-serif;
     color: #222;
   }
 
@@ -25,7 +25,7 @@ body {
   
   .emoji a {
     text-decoration: none;
-    background-color: #781BAA;
+    background-color: #781baa;
     color: white;
     padding: 1rem;
     border-radius: 8px;
