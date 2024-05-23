@@ -3,8 +3,6 @@ body {
   color: #222;
 }
 
-
-
 .emojis { 
   grid-template-columns: 50% 50%;
   justify-content: space-between;
@@ -31,6 +29,7 @@ body {
 
 .emoji p {
   order: 3;
+  text-align: left;
 }
 
 .emoji a {
