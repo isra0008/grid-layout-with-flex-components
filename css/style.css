@@ -24,7 +24,7 @@ body {
   margin: 0;
   border-bottom: 2px solid #ccc;
   align-items:justify;
-  order: 1;
+  order: 2;
 }
 
 .emoji a {
@@ -37,10 +37,12 @@ body {
 cursor: pointer;
 margin-top: auto;
 display: inline-block;
+order: 3;
 }
 
 .icon {
   font-size: 4rem;
 text-align:center;
+order: 1;
 }
 
