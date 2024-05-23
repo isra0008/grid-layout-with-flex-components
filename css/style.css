@@ -24,7 +24,7 @@ body {
   margin: 0;
   border-bottom: 2px solid #ccc;
   align-items:justify;
-  order: -1;
+  order: 2;
 }
 
 .emoji a {
