@@ -27,8 +27,8 @@ body {
   order: 2;
 }
 
-. p {
-  order:3;
+.p {
+  order: 3;
 }
 
 .emoji a {
@@ -41,7 +41,7 @@ body {
 cursor: pointer;
 margin-top: auto;
 display: inline-block;
-order:4;
+order: 4;
 }
 
 .icon {
