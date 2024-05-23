@@ -21,10 +21,10 @@ body {
 }
 
 .emoji h2 {
+  order: 2;
   margin: 0;
   border-bottom: 2px solid #ccc;
   align-items:justify;
-  order: 2;
 }
 
 .p {
