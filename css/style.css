@@ -32,6 +32,7 @@ body {
 }
 
 .emoji a {
+  order: 4;
   text-decoration: none;
   background-color: #781baa;
   color: white;
@@ -41,12 +42,11 @@ body {
 cursor: pointer;
 margin-top: auto;
 display: inline-block;
-order: 4;
 }
 
 .icon {
-  font-size: 4rem;
+  order: 1; 
+font-size: 4rem;
 text-align:center;
-order: 1;
 }
 
