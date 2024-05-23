@@ -27,10 +27,7 @@ body {
   align-items:justify;
 }
 
-.emoji p {
-  order: 3;
-  text-align: left;
-}
+
 
 .emoji a {
   order: 4;
