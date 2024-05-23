@@ -27,6 +27,10 @@ body {
   order: 2;
 }
 
+. p {
+  order:3;
+}
+
 .emoji a {
   text-decoration: none;
   background-color: #781baa;
@@ -37,6 +41,7 @@ body {
 cursor: pointer;
 margin-top: auto;
 display: inline-block;
+order:4;
 }
 
 .icon {
